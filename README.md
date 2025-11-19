@@ -1,2 +1,0 @@
-# ClearInvest
-class work
